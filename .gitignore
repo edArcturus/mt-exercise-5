@@ -140,3 +140,5 @@ logs
 tools
 
 .DS_Store
+
+bpe_model/  

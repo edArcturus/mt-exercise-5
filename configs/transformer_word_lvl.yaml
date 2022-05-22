@@ -1,4 +1,4 @@
-name: "transformer_sample_config"
+name: "transformer_word_lvl"
 
 data:
     src: "de"
@@ -38,7 +38,7 @@ training:
     validation_freq: 500
     logging_freq: 100
     eval_metric: "bleu"
-    model_dir: "word_lvl"
+    model_dir: "models/word_lvl"
     overwrite: False
     shuffle: True
     use_cuda: True
