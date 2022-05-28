@@ -135,7 +135,7 @@ venvs
 shared_models
 data
 models
-translations
+# translations
 logs
 tools
 
